@@ -8,7 +8,7 @@
 <img
 src="images/profile.jpg"
 raw=true
-width="350"
+width="500"
 height="350"
 alt="Subject Pronouns"
 style="margin-right: 10px;"
