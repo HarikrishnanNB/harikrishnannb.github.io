@@ -1,24 +1,2 @@
 
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - CONTRIBUTING.md
-  - README.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
-  - index.md
-  - math.md
-
-remote_theme: jekyll-theme-hacker
-title: This is H(x) bits!
-description: Lecture notes on "Topics in Information Theory, Chaos and Causal Learning"
-programme: Consciousness Studies Programme
-department: School of Humanities
-institution: National Institute of Advanced Studies, Bengaluru
+theme: jekyll-theme-hacker
