@@ -11,7 +11,7 @@
 
 <a href="cv">CV</a>
 
-<a href="invitedtalks">Invited Talks</a>
+<a href="invitedtalks.md">Invited Talks</a>
 
 ## Invited Talks
 
