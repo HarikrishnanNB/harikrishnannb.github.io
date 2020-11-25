@@ -9,6 +9,8 @@
 
 - I completed my B.Tech (2012- 2016) in Electronics and Communication Engineering ["ECE"](https://www.amrita.edu/school/engineering/amritapuri/electronics-and-communication), Amrita School of Engineering, Amritapuri Campus in Kerala.
 
+<a href="cv">CV</a>
+
 ## Invited Talks
 
 1. **How do Intelligent Machines Learn From Experience? Learning From Data**, Quintessence of Being: Examining Existence and Experience online course conducted by the Consciousness Studies Programme, National Institute of Advanced Studies on 15 October 2020. 
