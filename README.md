@@ -9,6 +9,8 @@
 
 - I completed my B.Tech (2012- 2016) in Electronics and Communication Engineering ["ECE"](https://www.amrita.edu/school/engineering/amritapuri/electronics-and-communication), Amrita School of Engineering, Amritapuri Campus in Kerala.
 
+<div class="span">
+
 <a href="invitedtalks.md">Invited Talks</a>
 
 <a href="research.md">Research</a>
@@ -22,3 +24,5 @@
 <a href="readings.md">Readings</a>
 
 <a href="cv">CV</a>
+
+ </div>
