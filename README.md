@@ -12,7 +12,7 @@
 
 <div class="span">
 
-<a href="invitedtalks.md">Invited Talks</a>
+<a href="invitedtalks.html">Invited Talks</a>
 
 <a href="research.md">Research</a>
 
