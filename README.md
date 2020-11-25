@@ -17,7 +17,7 @@
 
 <a href="conferencepapers.md">Conference Papers</a>
 
-<a href="book.md">Books/Chapters</a>
+<a href="book.md">Books Chapters</a>
 
 <a href="readings.md">Readings</a>
 
