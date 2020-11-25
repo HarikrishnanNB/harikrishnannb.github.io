@@ -1,6 +1,6 @@
 # Harikrishnan N B
 
-<img style="float: right;" width="150" src="images/profile.jpg">
+<img style="float: right;margin: 10px 10px 10px;" width="150" src="images/profile.jpg">
 
 
 - I am currently working as a Research Associate, [Consciousness Studies Programme]([https://niasconsciousnesscentre.org/), School of Humanities, National Institute of Advanced Studies (NIAS), Indian Institute of Science Campus, Bengaluru. (July 2018 - Present). I am also pursuing my PhD with the guidance of [Dr. Nithin Nagaraj](https://sites.google.com/site/nithinnagaraj2/), Associate Professor, NIAS. My PhD topic is "Investigations into Learning Algorithms in Intelligent Machines".
