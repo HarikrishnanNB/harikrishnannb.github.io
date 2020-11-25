@@ -1,8 +1,4 @@
 
----
-layout: default
----
-
 ## Invited Talks
 
 1. **How do Intelligent Machines Learn From Experience? Learning From Data**, Quintessence of Being: Examining Existence and Experience online course conducted by the Consciousness Studies Programme, National Institute of Advanced Studies on 15 October 2020. 
