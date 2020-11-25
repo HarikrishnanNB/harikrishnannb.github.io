@@ -4,3 +4,12 @@
 - I completed my M-tech degree (July’27 2016 – Aug 2018) in Computational Engineering and Networking at  [Center for Computational Engineering and Networking](https://www.amrita.edu/center/computational-engineering-and-networking), Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore, Tamil Nadu.
 
 - I completed my B-tech (2012- 2016) in Electronics and Communication Engineering ["ECE"](https://www.amrita.edu/school/engineering/amritapuri/electronics-and-communication), Amrita School of Engineering, Amritapuri Campus in Kerala.
+
+<img
+src="images/profile.jpg"
+raw=true
+width="350"
+height="350"
+alt="Subject Pronouns"
+style="margin-right: 10px;"
+/>
