@@ -1,4 +1,4 @@
-# Harikrishnan N B
+# Harikrishnan N. B.
 
 <img style="float: right;margin: 10px 10px 10px;" width="150" src="images/profile.jpg">
 
