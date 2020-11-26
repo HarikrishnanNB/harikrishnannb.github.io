@@ -2,3 +2,6 @@
 - name: Invited Talks
   link: /invitedtalks.md
   image: none
+ -name: Research
+  link: /research.md
+  image: none
