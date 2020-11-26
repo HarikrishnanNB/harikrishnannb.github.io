@@ -5,7 +5,7 @@
 -------------------------------------------------------------------------------------
 ### Collaborators: [Snehanshu Saha](https://www.bits-pilani.ac.in/goa/snehanshus/profile), [Aditi Kathpalia](https://aditikathpalia.wordpress.com/), [Nithin Nagaraj](https://sites.google.com/site/nithinnagaraj2/)
 -------------------------------------------------------------------------------------
-#### Reference: Balakrishnan, Harikrishnan Nellippallil, et al. "[ChaosNet: A chaos based artificial neural network architecture for classification](https://aip.scitation.org/doi/abs/10.1063/1.5120831)". Chaos: An Interdisciplinary Journal of Nonlinear Science 29.11 (2019): 113125.
+#### Reference: Harikrishnan N B, Snehanshu Saha, Aditi Kathpalia, Nithin Nagaraj. "[ChaosNet: A chaos based artificial neural network architecture for classification](https://aip.scitation.org/doi/abs/10.1063/1.5120831)". Chaos: An Interdisciplinary Journal of Nonlinear Science 29.11 (2019): 113125.
 -------------------------------------------------------------------------------------
 
 Inspired by chaotic firing of neurons in the brain, we propose ChaosNet—a novel chaos based artificial neural network architecture for
@@ -21,7 +21,7 @@ tasks on well known publicly available datasets with very limited training sampl
 -------------------------------------------------------------------------------------
 ### Collaborators: [Pranay SY](https://www.researchgate.net/profile/Pranay_Yadav8), [Nithin Nagaraj](https://sites.google.com/site/nithinnagaraj2/)
 -------------------------------------------------------------------------------------
-#### Reference: NB, Harikrishnan, Pranay SY, and Nithin Nagaraj. "[A Neurochaos Learning Architecture for Genome Classification](https://arxiv.org/abs/2010.10995)." arXiv preprint arXiv:2010.10995 (2020).
+#### Reference: Harikrishnan N B, Pranay S Y, Nithin Nagaraj. "[A Neurochaos Learning Architecture for Genome Classification](https://arxiv.org/abs/2010.10995)." arXiv preprint arXiv:2010.10995 (2020).
 -------------------------------------------------------------------------------------
 
 There has been empirical evidence of presence of non-linearity and chaos at the level of single neurons in biological neural networks. 
