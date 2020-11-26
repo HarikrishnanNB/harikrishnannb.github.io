@@ -5,9 +5,7 @@
 -------------------------------------------------------------------------------------
 ### Collaborators: [Snehanshu Saha](https://www.bits-pilani.ac.in/goa/snehanshus/profile), [Aditi Kathpalia](https://aditikathpalia.wordpress.com/), [Nithin Nagaraj](https://sites.google.com/site/nithinnagaraj2/)
 -------------------------------------------------------------------------------------
-#### Reference: Balakrishnan, Harikrishnan Nellippallil, et al. "[ChaosNet: A chaos 
-based artificial neural network architecture for classification](https://aip.scitation.org/doi/abs/10.1063/1.5120831).
-" Chaos: An Interdisciplinary Journal of Nonlinear Science 29.11 (2019): 113125.
+#### Reference: Balakrishnan, Harikrishnan Nellippallil, et al. "[ChaosNet: A chaos based artificial neural network architecture for classification](https://aip.scitation.org/doi/abs/10.1063/1.5120831)". Chaos: An Interdisciplinary Journal of Nonlinear Science 29.11 (2019): 113125.
 -------------------------------------------------------------------------------------
 Inspired by chaotic firing of neurons in the brain, we propose ChaosNet—a novel chaos based artificial neural network architecture for
 classification tasks. ChaosNet is built using layers of neurons, each of which is a 1D chaotic map known as the Generalized Luröth Series
