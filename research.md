@@ -18,7 +18,7 @@ tasks on well known publicly available datasets with very limited training sampl
 -------------------------------------------------------------------------------------
 ## A Neurochaos Learning Architecture for Genome Classification
 -------------------------------------------------------------------------------------
-### Collaborators: [Nithin Nagaraj](https://sites.google.com/site/nithinnagaraj2/)
+### Collaborators: [Pranay SY](https://www.researchgate.net/profile/Pranay_Yadav8), [Nithin Nagaraj](https://sites.google.com/site/nithinnagaraj2/)
 -------------------------------------------------------------------------------------
 #### Reference: NB, Harikrishnan, Pranay SY, and Nithin Nagaraj. "[A Neurochaos Learning Architecture for Genome Classification](https://arxiv.org/abs/2010.10995)." arXiv preprint arXiv:2010.10995 (2020).
 -------------------------------------------------------------------------------------
