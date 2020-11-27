@@ -1,4 +1,11 @@
-# Harikrishnan N. B.
+---
+layout: default
+title: Harikrishnan N B
+---
+
+
+
+# About
 
 <img style="float: right;margin: 10px 10px 10px;" width="150" src="images/profile.jpg">
 
