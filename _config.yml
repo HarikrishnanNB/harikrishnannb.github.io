@@ -8,4 +8,4 @@ include:
   - invitedtalks.html
   - research.html
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
