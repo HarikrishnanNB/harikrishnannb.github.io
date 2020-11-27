@@ -1,5 +1,8 @@
+---
+layout: default
+title: Harikrshnan N. B.
 
-  </head>
+---
   <body>
     <section class="page-header">
       <h1 class="project-name">Harikrishnan N. B.</h1>
