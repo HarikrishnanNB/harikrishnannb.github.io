@@ -4,7 +4,7 @@ title: Harikrshnan N. B.
 
 ---
   <body>
-    <section class="page-header">
+    
       <h1 class="project-name">Harikrishnan N. B.</h1>
       <h2 class="project-tagline"></h2>
       
