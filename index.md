@@ -3,25 +3,10 @@
   <head>
     <meta charset="UTF-8">
 
-<!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Harikrishnan N B | harikrishnannb.github.io</title>
-<meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="Harikrishnan N B" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://harikrishnannb.github.io/" />
-<meta property="og:url" content="https://harikrishnannb.github.io/" />
-<meta property="og:site_name" content="Harikrishnan N. B." />
-<script type="application/ld+json">
-{"@type":"WebSite","headline":"Harikrishnan N B","url":"https://harikrishnannb.github.io/","name":"harikrishnannb.github.io","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <link rel="stylesheet" href="/assets/css/style.css?v=36c93af233fdccab8d0065b3af4f1cbee109541c">
   </head>
   <body>
     <section class="page-header">
-      <h1 class="project-name">harikrishnannb.github.io</h1>
+      <h1 class="project-name">Harikrishnan N. B.</h1>
       <h2 class="project-tagline"></h2>
       
       
