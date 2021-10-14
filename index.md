@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-
-
-      
-    </section>
 
     <section class="main-content">
       <h1 id="about">About</h1>
@@ -51,5 +43,4 @@
     </section>
 
     
-  </body>
-</html>
+
