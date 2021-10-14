@@ -4,15 +4,6 @@
     <meta charset="UTF-8">
 
 
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <link rel="stylesheet" href="/assets/css/style.css?v=36c93af233fdccab8d0065b3af4f1cbee109541c">
-  </head>
-  <body>
-    <section class="page-header">
-      <h1 class="project-name">harikrishnannb.github.io</h1>
-      <h2 class="project-tagline"></h2>
-      
       
     </section>
 
