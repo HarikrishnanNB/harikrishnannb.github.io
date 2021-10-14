@@ -3,17 +3,6 @@
   <head>
     <meta charset="UTF-8">
 
-<!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Harikrishnan N B | Harikrishnan N. B.</title>
-<meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="Harikrishnan N B" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://harikrishnannb.github.io/" />
-<meta property="og:url" content="https://harikrishnannb.github.io/" />
-<meta property="og:site_name" content="Harikrishnan N. B." />
-<script type="application/ld+json">
-{"@type":"WebSite","headline":"Harikrishnan N B","url":"https://harikrishnannb.github.io/","name":"Harikrishnan N. B.","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
