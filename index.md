@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
     <section class="main-content">
       <h1 id="about">About</h1>
